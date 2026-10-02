@@ -1,0 +1,8 @@
+{
+  "name": "Remix ぷよぷよ バトルスタジアム (Puyo Puyo Battle)",
+  "description": "本格ぷよぷよ対戦ゲーム！かんたん・ふつう・むずかしいのCPU難易度調整や連鎖ボイス・おじゃま相殺システムを完全搭載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
